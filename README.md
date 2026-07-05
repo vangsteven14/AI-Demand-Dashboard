@@ -7,4 +7,6 @@ It is an overview dashboard which addresses key findings and brings awareness fo
   ● What Type of AI Skills are in demand? <br>
   ● Which Type of Generative AI is in demand? <br>
   ● Technical vs Non-Technical for Areas of Occupations, Industries, and Education Levels <br>
-  ● What is the Average National Job Postings for AI Skills?
+  ● What is the Average National Job Postings for AI Skills? <br>
+
+To view the interactive AI demand dashboard, simply download and extract the .zip file. 
